@@ -1,0 +1,6 @@
+2024-08-29 18:42:02 ---[INFO]--- Retrieved 6 categories from the database.
+2024-08-29 18:42:15 ---[INFO]--- fetching product by Product Id
+2024-08-29 18:42:15 ---[INFO]--- Product found with ID: 400
+2024-08-29 18:42:46 ---[INFO]--- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-29 18:42:46 ---[INFO]--- HikariPool-1 - Shutdown initiated...
+2024-08-29 18:42:46 ---[INFO]--- HikariPool-1 - Shutdown completed.

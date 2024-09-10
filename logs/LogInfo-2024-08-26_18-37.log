@@ -1,0 +1,30 @@
+2024-08-26 18:37:21 ---[INFO]--- Removed product with ID: 400 from wishlist for customer ID:100
+2024-08-26 18:37:21 ---[INFO]--- Fetching wishlist for customer ID:100
+2024-08-26 18:37:21 ---[INFO]--- Retrieved wishlist for customer with ID: 100
+2024-08-26 18:37:25 ---[WARN]--- Product with id 406 not found in wishlist
+2024-08-26 18:37:25 ---[INFO]--- Fetching wishlist for customer ID:100
+2024-08-26 18:37:25 ---[INFO]--- Retrieved wishlist for customer with ID: 100
+2024-08-26 18:37:27 ---[WARN]--- Product with id 406 not found in wishlist
+2024-08-26 18:37:27 ---[INFO]--- Fetching wishlist for customer ID:100
+2024-08-26 18:37:27 ---[INFO]--- Retrieved wishlist for customer with ID: 100
+2024-08-26 18:37:28 ---[WARN]--- Product with id 406 not found in wishlist
+2024-08-26 18:37:28 ---[INFO]--- Fetching wishlist for customer ID:100
+2024-08-26 18:37:28 ---[INFO]--- Retrieved wishlist for customer with ID: 100
+2024-08-26 18:37:28 ---[WARN]--- Product with id 406 not found in wishlist
+2024-08-26 18:37:28 ---[INFO]--- Fetching wishlist for customer ID:100
+2024-08-26 18:37:28 ---[INFO]--- Retrieved wishlist for customer with ID: 100
+2024-08-26 18:37:31 ---[INFO]--- Cleared all products from wishlist for customer ID: 100
+2024-08-26 18:37:31 ---[INFO]--- Fetching wishlist for customer ID:100
+2024-08-26 18:37:31 ---[INFO]--- Retrieved wishlist for customer with ID: 100
+2024-08-26 18:37:35 ---[INFO]--- Adding product ID:400 to customer wishlist
+2024-08-26 18:37:35 ---[INFO]--- Product ID: 400 added to wishlist for customer ID: 100
+2024-08-26 18:37:36 ---[INFO]--- Adding product ID:402 to customer wishlist
+2024-08-26 18:37:36 ---[INFO]--- Product ID: 402 added to wishlist for customer ID: 100
+2024-08-26 18:37:38 ---[INFO]--- Adding product ID:403 to customer wishlist
+2024-08-26 18:37:38 ---[INFO]--- Product ID: 403 added to wishlist for customer ID: 100
+2024-08-26 18:37:40 ---[INFO]--- Adding product ID:404 to customer wishlist
+2024-08-26 18:37:40 ---[INFO]--- Product ID: 404 added to wishlist for customer ID: 100
+2024-08-26 18:37:41 ---[INFO]--- Adding product ID:406 to customer wishlist
+2024-08-26 18:37:41 ---[INFO]--- Product ID: 406 added to wishlist for customer ID: 100
+2024-08-26 18:37:43 ---[INFO]--- Adding product ID:407 to customer wishlist
+2024-08-26 18:37:43 ---[INFO]--- Product ID: 407 added to wishlist for customer ID: 100

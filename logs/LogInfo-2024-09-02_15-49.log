@@ -1,0 +1,31 @@
+2024-09-02 15:49:03 ---[INFO]--- Updating Product with ID: 417
+2024-09-02 15:49:03 ---[INFO]--- Product Updated Successfully with ID: 417
+2024-09-02 15:49:03 ---[INFO]--- All product details retrieved successfully
+2024-09-02 15:49:08 ---[INFO]--- All product details retrieved successfully
+2024-09-02 15:49:15 ---[INFO]--- Updating Product with ID: 417
+2024-09-02 15:49:15 ---[INFO]--- Image Formalshoes.jfif converted to URL /images/29ee6e1c-b96b-4056-936c-105a89a6420b_Formalshoes.jfif
+2024-09-02 15:49:15 ---[INFO]--- Image Mens Classic.jfif converted to URL /images/c4dbd695-f49b-4b8e-bf9c-7d972dabff45_Mens Classic.jfif
+2024-09-02 15:49:15 ---[INFO]--- Image MensFormal.jfif converted to URL /images/b33d10cc-1537-4262-ae20-7f40893f0ebc_MensFormal.jfif
+2024-09-02 15:49:15 ---[INFO]--- Image Sportshoes.jfif converted to URL /images/ca4a3d58-0e2a-444b-bb66-3b4b9d8abcb1_Sportshoes.jfif
+2024-09-02 15:49:15 ---[INFO]--- Product Updated Successfully with ID: 417
+2024-09-02 15:49:15 ---[INFO]--- All product details retrieved successfully
+2024-09-02 15:49:22 ---[INFO]--- fetching product by Product Id
+2024-09-02 15:49:22 ---[INFO]--- Product found with ID: 417
+2024-09-02 15:49:26 ---[INFO]--- Updating Product with ID: 417
+2024-09-02 15:49:26 ---[INFO]--- Product Updated Successfully with ID: 417
+2024-09-02 15:49:26 ---[INFO]--- All product details retrieved successfully
+2024-09-02 15:49:54 ---[INFO]--- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-09-02 15:49:54 ---[INFO]--- HikariPool-1 - Shutdown initiated...
+2024-09-02 15:49:54 ---[INFO]--- HikariPool-1 - Shutdown completed.
+2024-09-02 15:49:57 ---[INFO]--- Starting ECommerceApplication using Java 22.0.1 with PID 11692 (C:\E-Commerce Web Application\ECommerceApplicationThymleaf\target\classes started by Administrator in C:\E-Commerce Web Application\ECommerceApplicationThymleaf)
+2024-09-02 15:49:57 ---[INFO]--- No active profile set, falling back to 1 default profile: "default"
+2024-09-02 15:49:57 ---[INFO]--- Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-02 15:49:57 ---[INFO]--- For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-02 15:49:58 ---[INFO]--- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-09-02 15:49:58 ---[INFO]--- Finished Spring Data repository scanning in 119 ms. Found 10 JPA repository interfaces.
+2024-09-02 15:49:59 ---[INFO]--- Tomcat initialized with port 8888 (http)
+2024-09-02 15:49:59 ---[INFO]--- Initializing ProtocolHandler ["http-nio-8888"]
+2024-09-02 15:49:59 ---[INFO]--- Starting service [Tomcat]
+2024-09-02 15:49:59 ---[INFO]--- Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-09-02 15:49:59 ---[INFO]--- Initializing Spring embedded WebApplicationContext
+2024-09-02 15:49:59 ---[INFO]--- Root WebApplicationContext: initialization completed in 2569 ms

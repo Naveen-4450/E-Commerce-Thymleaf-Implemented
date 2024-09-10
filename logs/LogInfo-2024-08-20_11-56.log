@@ -1,0 +1,36 @@
+2024-08-20 11:56:39 ---[INFO]--- Closing JPA EntityManagerFactory for persistence unit 'default'
+2024-08-20 11:56:39 ---[INFO]--- HikariPool-1 - Shutdown initiated...
+2024-08-20 11:56:39 ---[INFO]--- HikariPool-1 - Shutdown completed.
+2024-08-20 11:56:42 ---[INFO]--- Starting ECommerceApplication using Java 22.0.1 with PID 10032 (C:\E-Commerce Web Application\ECommerceApplicationThymleaf\target\classes started by Administrator in C:\E-Commerce Web Application\ECommerceApplicationThymleaf)
+2024-08-20 11:56:42 ---[INFO]--- No active profile set, falling back to 1 default profile: "default"
+2024-08-20 11:56:43 ---[INFO]--- Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-08-20 11:56:43 ---[INFO]--- For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-08-20 11:56:44 ---[INFO]--- Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-08-20 11:56:44 ---[INFO]--- Finished Spring Data repository scanning in 119 ms. Found 10 JPA repository interfaces.
+2024-08-20 11:56:45 ---[INFO]--- Tomcat initialized with port 8888 (http)
+2024-08-20 11:56:45 ---[INFO]--- Initializing ProtocolHandler ["http-nio-8888"]
+2024-08-20 11:56:45 ---[INFO]--- Starting service [Tomcat]
+2024-08-20 11:56:45 ---[INFO]--- Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-20 11:56:45 ---[INFO]--- Initializing Spring embedded WebApplicationContext
+2024-08-20 11:56:45 ---[INFO]--- Root WebApplicationContext: initialization completed in 2600 ms
+2024-08-20 11:56:45 ---[INFO]--- HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-08-20 11:56:45 ---[INFO]--- HHH000412: Hibernate ORM core version 6.5.2.Final
+2024-08-20 11:56:46 ---[INFO]--- HHH000026: Second-level cache disabled
+2024-08-20 11:56:46 ---[INFO]--- No LoadTimeWeaver setup: ignoring JPA class transformer
+2024-08-20 11:56:46 ---[INFO]--- HikariPool-1 - Starting...
+2024-08-20 11:56:46 ---[INFO]--- HikariPool-1 - Added connection org.postgresql.jdbc.PgConnection@10ec4c0f
+2024-08-20 11:56:46 ---[INFO]--- HikariPool-1 - Start completed.
+2024-08-20 11:56:46 ---[WARN]--- HHH90000025: PostgreSQLDialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2024-08-20 11:56:48 ---[INFO]--- HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2024-08-20 11:56:48 ---[INFO]--- Initialized JPA EntityManagerFactory for persistence unit 'default'
+2024-08-20 11:56:49 ---[WARN]--- spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2024-08-20 11:56:50 ---[INFO]--- LiveReload server is running on port 35729
+2024-08-20 11:56:50 ---[INFO]--- Starting ProtocolHandler ["http-nio-8888"]
+2024-08-20 11:56:50 ---[INFO]--- Tomcat started on port 8888 (http) with context path '/'
+2024-08-20 11:56:50 ---[INFO]--- Started ECommerceApplication in 8.076 seconds (process running for 9.148)
+2024-08-20 11:56:53 ---[INFO]--- Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-20 11:56:53 ---[INFO]--- Initializing Servlet 'dispatcherServlet'
+2024-08-20 11:56:53 ---[INFO]--- Completed initialization in 2 ms
+2024-08-20 11:56:53 ---[INFO]--- Fetching wishlist for customer ID:100
+2024-08-20 11:56:54 ---[INFO]--- Retrieved wishlist for customer with ID: 100
+2024-08-20 11:56:56 ---[WARN]--- Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'int'; For input string: "${custId}"]
